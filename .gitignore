@@ -8,3 +8,7 @@
 # ship in skills/brain-setup/assets/; these root copies are local-only, not product.
 /BRAIN.md
 /CLAUDE.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
